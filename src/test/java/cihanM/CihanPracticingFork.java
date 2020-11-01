@@ -1,4 +1,4 @@
-package cihan;
+package cihanM;
 
 public class CihanPracticingFork {
     public static void main(String[] args) {
